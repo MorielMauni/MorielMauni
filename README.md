@@ -23,7 +23,6 @@
 
 ### **Cloud & Hosting**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
 
 ---
 
@@ -51,5 +50,5 @@ A fun Python project featuring animated turtle races.
 
 ## 🎯 **Fun Facts About Me**  
 - 🐍 Passionate about Python and building meaningful projects.  
-- 🌍 Hosting my portfolio on [AWS S3](http://morielmauni.com/) with HTTPS enabled.  
+- 🌍 Hosting my portfolio on [AWS S3](http://morielmauni.com/) with AWS Amplify.  
 - 🎨 I enjoy designing user-friendly and clean interfaces.
