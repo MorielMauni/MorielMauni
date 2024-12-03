@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Moriel Mauni!  
+# 👋 I'm Moriel Mauni!  
 
-💻 **Software Developer | Python Enthusiast | AWS Cloud Practitioner**  
-🌱 **Exploring cloud technologies and frontend development**  
+💻 **DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
+🌱 **Automating workflows and optimizing cloud deployments**  
 
 🌐 **Portfolio**: [morielmauni.com](http://morielmauni.com/)  
 🔗 **LinkedIn**: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
@@ -10,45 +10,61 @@
 
 ## 🚀 **Skills & Technologies**  
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **DevOps Tools**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### **Frameworks & Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Cloud & Hosting**
+### **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)  
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🌟 **Featured Projects**  
 
-### 📖 [Blog_With_Flask](https://github.com/MorielMauni/Blog_With_Flask)  
-A fully functional blogging platform built using Flask.
+### 🛠️ [Blog_With_Flask](https://github.com/MorielMauni/Blog_With_Flask)  
+- **What I Did**: Built CI/CD pipelines using GitHub Actions to test, lint, and deploy the Flask app.  
+- **Tech Stack**: Flask, GitHub Actions, Docker, AWS S3.
+
+### 📦 [WeatherSMS](https://github.com/MorielMauni/WeatherSMS)  
+- **What I Did**: Automated deployment of a weather alert service on AWS EC2 with Docker containers.  
+- **Tech Stack**: Python, Twilio API, AWS EC2, Docker.
 
 ### ⏲️ [Pomodoro_App](https://github.com/MorielMauni/Pomodoro_App)  
-A simple and effective time management tool.
+- **What I Did**: Designed a time management app hosted on AWS Amplify, configured for high availability.  
+- **Tech Stack**: Python, AWS Amplify.
 
-### 📱 [WeatherSMS](https://github.com/MorielMauni/WeatherSMS)  
-Get real-time weather updates via SMS using Twilio and OpenWeather API.
+---
 
-### 🐍 [Turtle_Race](https://github.com/MorielMauni/Turtle_race)  
-A fun Python project featuring animated turtle races.
+## 🌍 **Infrastructure as Code**
+I’m proficient in designing cloud infrastructure using tools like Terraform and CloudFormation, ensuring reproducibility and scalability.
+
+---
+
+## 🎯 **What I’m Learning**  
+- Implementing GitOps workflows with ArgoCD.  
+- Automating Kubernetes cluster management with Helm.  
+- Enhancing security and monitoring using AWS CloudWatch and GuardDuty.
 
 ---
 
 ## 📬 **Contact Me**  
 - 📧 Email: [morielmauni@gmail.com](mailto:morielmauni@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)
+- 🔗 LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
 
 ---
 
-## 🎯 **Fun Facts About Me**  
-- 🐍 Passionate about Python and building meaningful projects.  
-- 🌍 Hosting my portfolio on [AWS S3](http://morielmauni.com/) with AWS Amplify.  
-- 🎨 I enjoy designing user-friendly and clean interfaces.
+## ⚡ **Fun Facts**  
+- 🚀 Passionate about automating repetitive tasks with CI/CD pipelines.  
+- 🌍 Building and deploying projects with a focus on scalability and performance.  
+- 🐧 Linux enthusiast—frequently tinkering with server configurations.
+
