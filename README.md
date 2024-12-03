@@ -1,6 +1,6 @@
 # 👋 I'm Moriel Mauni!  
 
-💻 **DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
+♾️ **DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
 🌱 **Automating workflows and optimizing cloud deployments**  
 
 🌐 **Portfolio**: [morielmauni.com](http://morielmauni.com/)  
