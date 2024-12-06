@@ -50,21 +50,6 @@ I’m proficient in designing cloud infrastructure using tools like Terraform an
 
 ---
 
-## 🎯 **What I’m Learning**  
-- Implementing GitOps workflows with ArgoCD.  
-- Automating Kubernetes cluster management with Helm.  
-- Enhancing security and monitoring using AWS CloudWatch and GuardDuty.
-
----
-
 ## 📬 **Contact Me**  
 - 📧 Email: [morielmauni@gmail.com](mailto:morielmauni@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
-
----
-
-## ⚡ **Fun Facts**  
-- 🚀 Passionate about automating repetitive tasks with CI/CD pipelines.  
-- 🌍 Building and deploying projects with a focus on scalability and performance.  
-- 🐧 Linux enthusiast—frequently tinkering with server configurations.
-
