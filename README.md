@@ -1,6 +1,6 @@
 # I'm Moriel Mauni!  
 
-**DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
+**DevOps Engineer**  
 **Automating workflows and optimizing cloud deployments**  
 
 **Portfolio**: [morielmauni.com](http://morielmauni.com/)  
@@ -20,8 +20,6 @@
 ### **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)  
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
 
 ### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
