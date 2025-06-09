@@ -1,14 +1,14 @@
-# 👋 I'm Moriel Mauni!  
+# I'm Moriel Mauni!  
 
-♾️ **DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
-🌱 **Automating workflows and optimizing cloud deployments**  
+**DevOps Engineer | Software Developer | AWS Cloud Practitioner**  
+**Automating workflows and optimizing cloud deployments**  
 
-🌐 **Portfolio**: [morielmauni.com](http://morielmauni.com/)  
-🔗 **LinkedIn**: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
+**Portfolio**: [morielmauni.com](http://morielmauni.com/)  
+**LinkedIn**: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
 
 ---
 
-## 🚀 **Skills & Technologies**  
+## **Skills & Technologies**  
 
 ### **DevOps Tools**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
@@ -29,27 +29,6 @@
 
 ---
 
-## 🌟 **Featured Projects**  
-
-### 🛠️ [Blog_With_Flask](https://github.com/MorielMauni/Blog_With_Flask)  
-- **What I Did**: Built CI/CD pipelines using GitHub Actions to test, lint, and deploy the Flask app.  
-- **Tech Stack**: Flask, GitHub Actions, Docker, AWS S3.
-
-### 📦 [WeatherSMS](https://github.com/MorielMauni/WeatherSMS)  
-- **What I Did**: Automated deployment of a weather alert service on AWS EC2 with Docker containers.  
-- **Tech Stack**: Python, Twilio API, AWS EC2, Docker.
-
-### ⏲️ [Pomodoro_App](https://github.com/MorielMauni/Pomodoro_App)  
-- **What I Did**: Designed a time management app hosted on AWS Amplify, configured for high availability.  
-- **Tech Stack**: Python, AWS Amplify.
-
----
-
-## 🌍 **Infrastructure as Code**
-I’m proficient in designing cloud infrastructure using tools like Terraform and CloudFormation, ensuring reproducibility and scalability.
-
----
-
-## 📬 **Contact Me**  
-- 📧 Email: [morielmauni@gmail.com](mailto:morielmauni@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
+## **Contact Me**  
+- Email: [morielmauni@gmail.com](mailto:morielmauni@gmail.com)  
+- LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
