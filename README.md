@@ -4,7 +4,7 @@
 
 ---
 
-###  Technical Skills
+###  Technical Skills:
 
 **DevOps**
 - Ansible, Terraform, Jenkins, ArgoCD, GitOps
@@ -24,7 +24,7 @@
 
 ---
 
-###  Projects
+###  Projects:
 
 **Ansible-Demo**: A demo for production project, Active in production- solo DevOps.
 
@@ -38,9 +38,7 @@
 
 ---
 
-### Links
-
-**Portfolio:** [morielmauni.com](https://morielmauni.com/)
+### Links:
 
 **Email:** morielmauni@gmail.com
 
