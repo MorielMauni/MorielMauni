@@ -1,31 +1,47 @@
-# I'm Moriel Mauni!  
+## Hello
 
-**DevOps Engineer**  
-**Automating workflows and optimizing cloud deployments**  
-
-**Portfolio**: [morielmauni.com](http://morielmauni.com/)  
-**LinkedIn**: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
+**DevOps Engineer** | Infrastructure Automation | Cloud & Kubernetes
 
 ---
 
-## **Skills & Technologies**  
+###  Technical Skills
 
-### **DevOps Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+**DevOps**
+- Ansible, Terraform, Jenkins, ArgoCD, GitOps
+- Infrastructure as Code (IaC), CI/CD Pipelines
 
-### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+**Cloud & Containers**
+- Kubernetes, Docker, Minikube, AWS, Azure
+- Cloud platforms and containerization
 
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Programming & Scripting**
+- Python, Bash, PowerShell, YAML
+- Automation scripting and infrastructure automation
+
+**Systems Administration**
+- Windows Server, Linux (Debian, Arch)
+- Active Directory, network infrastructure, virtualization
 
 ---
 
-## **Contact Me**  
-- Email: [morielmauni@gmail.com](mailto:morielmauni@gmail.com)  
-- LinkedIn: [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)  
+###  Projects
+
+**Ansible-Demo**: A demo for production project, Active in production- solo DevOps.
+
+**homelab-2025**: Upgrading and managing infrastructure automation in a home lab environment
+
+**DevOps-Concept**: GitOps workflow implementation using Jenkins and ArgoCD for Kubernetes deployments
+
+**dotfiles**: Infrastructure configuration and management
+
+**Terraform-s3-website**: Infrastructure as Code for AWS S3 static website hosting
+
+---
+
+### Links
+
+**Portfolio:** [morielmauni.com](https://morielmauni.com/)
+
+**Email:** morielmauni@gmail.com
+
+**LinkedIn:** [linkedin.com/in/morielmauni](https://www.linkedin.com/in/morielmauni/)
