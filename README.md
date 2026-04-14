@@ -1,5 +1,6 @@
 ## Hello
 
+You can see everything I work/study on my blog [blog.morielclouds.com](https://blog.morielclouds.com/)
 ---
 
 ###  Technical Skills:
